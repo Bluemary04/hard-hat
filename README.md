@@ -17,7 +17,7 @@ To compile the contract run `npx hardhat compile` in your terminal.
  
 ## Executing tests:
  
-To execute tests in the test folder, run `npx hardhat test` in your terminal.
+To execute tests in the test folder, run `npx hardhat test` in your terminal. This is an example of test execution results in the terminal:
  
 ![hard hat test results](/assets/HHtest_results.png "hard hat test results")
  
