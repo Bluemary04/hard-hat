@@ -19,7 +19,7 @@ To compile the contract run `npx hardhat compile` in your terminal.
  
 To execute tests in the test folder, run `npx hardhat test` in your terminal.
  
-![hard hat test results](/Documents/Lightshot/HHtest_results.jpg "hard hat test results")
+![hard hat test results](/assets/HHtest_results.png "hard hat test results")
  
 ## Deploy to a live network:
  
